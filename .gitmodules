@@ -1,0 +1,3 @@
+[submodule "BackendDailyMeals"]
+	path = tfa-KevMCh
+	url = https://github.com/ULL-ESIT-MII-CA-1718/tfa-KevMCh.git
